@@ -1,0 +1,32 @@
+body {
+    background-color:white;
+    font-size: 100%;
+    color: black;
+    }
+p
+{
+    font-size: medium;
+    background-color: grey;
+    color: white;
+}
+
+#box{
+    background-attachment: rgb(202, 36, 36);
+    margin-right:30px;
+    margin-left: 30px;
+    }
+
+#content {
+    
+    border-color:3px black;
+    background-color:yellow;
+    margin-left: 20px;
+    margin-right:20px;
+    margin-top: 10px;
+    
+   
+}
+
+h4{
+    margin-bottom: 10px;
+}
