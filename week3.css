@@ -1,0 +1,30 @@
+body {
+    background-color:white;
+    font-size: 100%;
+    color: black;
+    }
+p
+{
+    font-size: medium;
+    background-color:rgba(250, 158, 37, 0.76);
+    padding: 20px;
+    margin: 10px;
+ }
+p1
+{
+    font-size: medium;
+    background-color:rgba(250, 158, 37, 0.76);
+    padding: 20px;
+    margin: 25px;
+ }
+ nav{
+    
+     background-color: burlywood;
+ }
+h3{
+    text-align: center;
+ }
+h2{
+    text-align: right;
+    padding-left: 45%;
+}
